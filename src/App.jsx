@@ -1,16 +1,16 @@
 import './App.css'
+import { Component } from 'react'
 
 // react week 2 exercise part 1
 
 function App() {
+  return <WelcomeComponent name="Ethan" />
+}
 
-  return (
-    <>
-          <div>
-              <h1>Codetrain is awesome, react works!!!!</h1>
-          </div>
-    </>
-  )
+class WelcomeComponent extends Component {
+  render() {
+    return <h1>{this.props.name} is awesome, react works!!!!</h1>
+  }
 }
 
 export default App;
