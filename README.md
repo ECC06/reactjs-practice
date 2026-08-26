@@ -1,4 +1,4 @@
-# Screenshot of work (React Week 2 Exercise 1, Part 1)
+# Screenshot of work (React Week 3 Exercise 1, Part 1)
 
 ## Arrow function component
 
