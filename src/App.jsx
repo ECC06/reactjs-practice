@@ -1,5 +1,7 @@
 import './App.css'
 
+// react week 2 exercise part 1
+
 function App() {
 
   return (
